@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#050914"/>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <defs><radialGradient id="bg" cx="0.5" cy="0.35" r="0.9"><stop offset="0" stop-color="#0E2E6B"/><stop offset="1" stop-color="#050914"/></radialGradient></defs>
+  <g transform="translate(90,200)">
+    <path d="M110 10 140 48 110 86 80 48 110 10Z" fill="#1685FF"/>
+    <path d="M10 220 90 62 120 100 60 220H10Z" fill="#fff"/>
+    <path d="M210 220 130 62 100 100 160 220h50Z" fill="#1685FF"/>
+    <path d="M110 118 78 220h64L110 118Z" fill="#0866F5"/>
+  </g>
+  <text x="380" y="300" font-family="Arial,sans-serif" font-size="84" font-weight="800" fill="#fff" letter-spacing="6">VERTEXORA</text>
+  <text x="382" y="350" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#5EA2FF" letter-spacing="18">SOLUTIONS</text>
+  <text x="382" y="395" font-family="Arial,sans-serif" font-size="22" fill="#94A3B8">Engineering Scalable Web &amp; SaaS Solutions</text>
+</svg>
